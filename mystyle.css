@@ -3,24 +3,24 @@ body
 	background-color: navy;	
 	font-family: "Calibri", sans-serif;
 }
-h1
+#name
 {
 	color: gold;
 	font-weight: bold;
 	text-align: center;
 }
-h2
+#headline
 {
 	color: lightgray;
 	font-style: italic;
 	text-align: center;
 }
-h3
+#year
 {
 	color: white;
 	text-align: center;
 }
-p
+.intro
 {
 	color: white;
 	margin-left: 150px;
@@ -31,7 +31,7 @@ img
 	display: block;
 	margin: 0 auto;
 }
-h5
+#caption
 {
 	color: white;
 	text-align: center;
